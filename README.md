@@ -1,1 +1,1 @@
-# hospital-onepage-html-template
+# hospital-onepage-responsive-html-template

@@ -1,0 +1,247 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    #top {
+        display: none;
+    }
+
+    hr {
+        display: none;
+    }
+
+    #header .header-text {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .jumbotron {
+        min-height: auto;
+    }
+
+    #why_choose_us .why_choose_us_top p {
+        padding: 0 30px;
+    }
+
+    #why_choose_us .why_choose_us_bottom {
+        display: none;
+    }
+
+    #counter_area .counter_main {
+        padding: 30px 0;
+    }
+
+    #counter_area .count_number p span {
+        font-size: 30px;
+    }
+
+    #work_details {
+        padding: 30px 0;
+        text-align: center;
+    }
+
+    #work_details .work_details_right_bottom .card-header i {
+        display: none;
+    }
+
+    #gallery_area .gallery_bg {
+        padding: 30px 0;
+    }
+
+    #gallery_area {
+        text-align: center;
+    }
+
+    #our_team .our_team_bg {
+        padding: 30px 0;
+    }
+
+    #get_a_quote .get_a_quote_bg {
+        padding: 30px 0;
+    }
+
+    #footer .footer_bg {
+        padding: 30px 0;
+    }
+
+    #footer h3 {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+
+}
+
+/*=====================================================================================*/
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 601px) and (max-width: 767px) {
+    #top {
+        display: none;
+    }
+
+    hr {
+        display: none;
+    }
+
+    #header .header-text {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    #why_choose_us .why_choose_us_top p {
+        padding: 0 20px;
+    }
+
+    #why_choose_us .why_choose_us_bottom {
+        display: none;
+    }
+
+    #counter_area .counter_main {
+        padding: 30px 0;
+    }
+
+    #work_details {
+        padding: 30px 0;
+        text-align: center;
+    }
+
+    #work_details .work_details_right_bottom .card-header i {
+        display: none;
+    }
+
+    #gallery_area .gallery_bg {
+        padding: 30px 0;
+    }
+
+    #gallery_area {
+        text-align: center;
+    }
+
+    #our_team .our_team_bg {
+        padding: 30px 0;
+    }
+
+    #get_a_quote .get_a_quote_bg {
+        padding: 30px 0;
+    }
+
+    #footer .footer_bg {
+        padding: 30px 0;
+    }
+
+    #footer h3 {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+}
+
+/*=====================================================================================*/
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    #top {
+        display: none;
+    }
+
+    hr {
+        display: none;
+    }
+
+    #header .header-text {
+        padding-right: 70px;
+    }
+
+    #why_choose_us .why_choose_us_bottom {
+        display: none;
+    }
+
+    #why_choose_us .why_choose_us_top p {
+        padding: 0 40px;
+    }
+
+    #counter_area .count_number p span {
+        font-size: 30px;
+    }
+
+    #counter_area .counter_main {
+        padding: 50px 0;
+    }
+
+    #work_details {
+        padding: 50px 0;
+    }
+
+    #work_details .work_details_right {
+        display: none;
+    }
+
+    #our_team .our_team_bg {
+        padding: 50px 0;
+    }
+
+    #get_a_quote .get_a_quote_bg {
+        padding: 50px 0;
+        background: #e2e2e2;
+    }
+
+    #footer .footer_bg {
+        padding: 50px 0;
+    }
+
+    #footer h3 {
+        margin-bottom: 40px;
+        font-size: 22px;
+    }
+
+    #footer .footer_email {
+        padding-left: 50px;
+    }
+
+    #footer .footer_phone {
+        padding-left: 50px;
+    }
+
+    #footer .footer_address {
+        padding-left: 50px;
+    }
+
+    #footer .footer_quick_links p span {
+        font-size: 16px;
+    }
+
+    #footer .footer_our_service p span {
+        font-size: 16px;
+    }
+
+}
+
+/*=====================================================================================*/
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .navbar .navbar-brand {
+        display: none;
+    }
+
+    #counter_area .counter_main {
+        padding: 80px 0;
+        text-align: center;
+    }
+
+    #counter_area .count_number p span {
+        font-size: 40px;
+    }
+
+    #work_details {
+        overflow: hidden;
+        padding: 60px 0;
+    }
+}
+
+/*=====================================================================================*/
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .navbar .navbar-brand {
+        display: none;
+    }
+}
